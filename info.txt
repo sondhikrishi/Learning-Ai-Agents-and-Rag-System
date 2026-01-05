@@ -1,0 +1,18 @@
+get -> kuch lene ke liye
+post -> kuch dene ke liye - resource creation
+patch -> jo already pata hai usse badalne ke liye
+delete -> delete karne ke liye
+put -> update karne ke liye
+
+/ signifies the home page ka
+
+decorators
+error numbers
+
+frontend mein do hi cheezein chahiye hoti hain - one is address that is the route and other is the response that we will be getting from the backend
+
+types (like int, float, boolean etc) provide a certain level of safety to our code such that incorrect input cannot be added to our code
+
+a collection of types is called models
+to solve the problem of defining types in every function we use something called models
+pydantic helps to create these models with ease
