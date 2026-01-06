@@ -20,3 +20,6 @@ pydantic helps to create these models with ease
 
 06-01-26:
 Today we covered how to implement the google genai SDK in our code. We also learnt how to pull new code from github to our local machine. Tomorrow we will be covering how to start making an AI agent with our backend code. Stay consistent and keep learning!
+
+Code ko github pe push karne ke liye we use the command - `git push`
+Similarly code ko github se apni machine pe leke aane ke liye we use - `git pull`
